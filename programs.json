@@ -14,6 +14,56 @@
           "delay": 20,
           "speed_tolerance": 10,
           "variation": false,
+          "id": "BX9Yxn09v4"
+        },
+        {
+          "horizontal": 0,
+          "vertical": 0,
+          "speed": 70,
+          "effect": 0,
+          "delay": 20,
+          "speed_tolerance": 10,
+          "variation": false,
+          "id": "YnLJ439Jwc"
+        },
+        {
+          "horizontal": 0,
+          "vertical": 0,
+          "speed": 70,
+          "effect": 0,
+          "delay": 20,
+          "speed_tolerance": 10,
+          "variation": false,
+          "id": "gPC1m1FRVC"
+        },
+        {
+          "horizontal": 0,
+          "vertical": 0,
+          "speed": 70,
+          "effect": 0,
+          "delay": 20,
+          "speed_tolerance": 10,
+          "variation": false,
+          "id": "1hkfgVzYGl"
+        },
+        {
+          "horizontal": 0,
+          "vertical": 0,
+          "speed": 70,
+          "effect": 0,
+          "delay": 20,
+          "speed_tolerance": 10,
+          "variation": false,
+          "id": "EZLvgPAtiS"
+        },
+        {
+          "horizontal": 0,
+          "vertical": 0,
+          "speed": 70,
+          "effect": 0,
+          "delay": 20,
+          "speed_tolerance": 10,
+          "variation": false,
           "id": "DmCb9lYcxr"
         }
       ]
